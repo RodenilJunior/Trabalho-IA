@@ -6,7 +6,7 @@ disciplina de inteligência artificial. O jogo criado se trata de um peixe cujo 
 ## Requisitos para o programa
 
   É nescessario para o funcionamento do programa a instalação das bibliotecas:
-pygame
-os
-random
-neat
+- pygame
+- os
+- random
+- neat
