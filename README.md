@@ -19,7 +19,7 @@ disciplina de inteligência artificial. O jogo criado se trata de um peixe cujo 
 
 ```shell
 cd "diretorio de sua preferencia"
-git clone https://github.com/condessalovelace/mavenquickstart
+git clone https://github.com/RodenilJunior/Trabalho-IA/blob/35d6b38216763d4ae7cfc882804b8b75885dd8c7/Game.py
 ```
 <p>Apos instalar as bibliotecas necessárias basta colar o arquivo "IA.txt" e a pasta "imgs" junto com o código para o funcionamento</p>
    <img src="https://ik.imagekit.io/kd8utzqjqy/Sem_t%C3%ADtulo_-_a8HlMns.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657587910939">
