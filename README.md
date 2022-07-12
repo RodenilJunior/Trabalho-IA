@@ -22,4 +22,4 @@ cd "diretorio de sua preferencia"
 git clone https://github.com/condessalovelace/mavenquickstart
 ```
 <p>Apos instalar as bibliotecas necessárias basta colar o arquivo "IA.txt" e a pasta "imgs" junto com o código para o funcionamento</p>
-  ![image](https://user-images.githubusercontent.com/108912481/178385684-f2361fb5-3104-4fcb-8901-7e7fc4359d66.png)
+  ![Uploading image.png…](https://ik.imagekit.io/kd8utzqjqy/Sem_t%C3%ADtulo_-_a8HlMns.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657587910939)
