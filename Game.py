@@ -36,7 +36,7 @@ class Fish:
      self.cont_img = 0
      self.img = self.IMGS
 
- def pular(self):
+ def nadar(self):
      self.vel = -10.5
      self.tempo = 0
      self.alt = self.y
@@ -191,7 +191,7 @@ def main(genomas, config):
              if evento.type == pygame.KEYDOWN:
                  if evento.key == pygame.K_SPACE:
                      for fish in fishs:
-                         fish.pular()
+                         fish.nadar()
 
      indice_cano = 0
      if len(fishs) > 0:
@@ -208,7 +208,7 @@ def main(genomas, config):
                                      abs(fish.y - canos[indice_cano].alt),
                                      abs(fish.y - canos[indice_cano].pos_bot)))
          if output[0] > 0.5:
-             fish.pular()
+             fish.nadar()
      piso.mover()
 
      add_cano = False
