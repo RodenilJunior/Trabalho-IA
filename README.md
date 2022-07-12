@@ -5,10 +5,10 @@ disciplina de inteligência artificial. O jogo criado se trata de um peixe cujo 
 
 ## Requisitos para o programa
 
- <p>  É nescessario para o funcionamento do programa a instalação das bibliotecas: <p>
- <p>- pygame <p>
- <p>- os <p>
- <p>- random <p>
- <p>- neat <p>
-  <p> E ainda baixar os arquivos no drive a seguir: <p>
-  - https://drive.google.com/drive/folders/1uAxNVtet0SJPka_IJDP9bEpz0fC4hLh5?usp=sharing
+ <p>  É nescessario para o funcionamento do programa a instalação das bibliotecas: </p>
+ <p>- pygame </p>
+ <p>- os </p>
+ <p>- random </p>
+ <p>- neat </p>
+ <p> E ainda baixar os arquivos no drive a seguir: </p>
+  <p>- https://drive.google.com/drive/folders/1uAxNVtet0SJPka_IJDP9bEpz0fC4hLh5?usp=sharing </p>
